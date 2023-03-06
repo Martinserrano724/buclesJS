@@ -114,11 +114,15 @@ Ejercicios con String
 Dificultad:  🟢🟡
 13- Realiza un script que pida un texto y lo muestre en mayúsculas.
 Dificultad:  🟢🟡
+
 14- Realiza un script que pida una cadena de texto y lo muestre poniendo el signo – entre cada carácter sin usar el método replace. Por ejemplo, si tecleo “hola qué tal”, deberá salir “h-o-l-a- -q-u-e- -t-a-l”.
 Dificultad:  🟢🟡
+
 15- Realiza un script que cuente el número de vocales que tiene un texto.
 Dificultad:  🟢🟡
+
 16- Realiza un script que pida una cadena de texto y la devuelva al revés. Es decir, si tecleo “hola que tal” deberá mostrar “lat euq aloh”.
 Dificultad:  🟢
+
 17- Realiza un script que muestre la posición de la primera vocal de un texto introducido por teclado.
 
