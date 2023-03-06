@@ -15,12 +15,24 @@
 10
 
 */
-
+let contador= 0;
       
-for (let i = 0; i < 10; i++) {
-     document.write(i);
+for (let i = 0; i < 500; i++) {
+     document.write(i+1);
+     if((i+1)%9 == 0){
+        document.write(`  Multiplo de 9`);
+     }
+     if((i+1)%4 == 0){
+        document.write(`  Multiplo de 4`);
+     }
+     contador ++;
+     if(contador == 5){
+        document.write(`<hr>`);
+        contador=0
+     }
+     document.write(`<br>`);
     }
-    document.write(`<br>`);
+    
      
  
    
